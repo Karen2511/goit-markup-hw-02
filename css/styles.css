@@ -37,6 +37,10 @@ h3 {
   color: #2e2f42;
 }
 
+.logo-span-footer {
+  color: #f4f4fd;
+}
+
 .secta {
   background-color: #2e2f42;
   text-align: center;
@@ -91,9 +95,10 @@ footer {
 .address {
   letter-spacing: 0.02em;
   color: #434455;
+  font-style: normal;
 }
-.address:hover,
-.address:focus {
+.contacts:hover,
+.contacts:focus {
   color: #404bbf;
 }
 .benefits-p {
@@ -104,12 +109,14 @@ footer {
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  color: #2e2f42;
 }
 .sectd li {
   background-color: #ffffff;
 }
 .card-subtitle {
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .card-data {
   font-size: 16px;
